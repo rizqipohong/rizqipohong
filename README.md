@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/rizqipohong/rizqipohong/main/intro.gif" alt="👋 Hi there! I'm Rizqi Dino" title="👋 Hi there! I'm Rizqi Dino"/>
 <div align="justify">
 
-<a href="https://www.instagram.com/rizqipohong/">
+<a href="https://www.instagram.com/khan_comservice/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@rizqipohong">
+<a href="https://www.youtube.com/@khan0813">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rizqipohong/">
+<a href="https://www.linkedin.com/in/rizqi-dino-triyatmoko-6a046618a/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/rizqipohong/">
+<a href="https://t.me/Dino Khan/">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
